@@ -102,22 +102,22 @@ openpyxl
 
 ---
 
-# 🔮 Future Enhancements
+🔮 Future Enhancements
 
-- 🚀 Real-time dashboard integration using live cloud kitchen data  
-- 🤖 Predictive analytics for forecasting food wastage and revenue trends  
-- 📈 Machine learning models for kitchen performance prediction  
-- 🔔 Automated alerts for high variance and low EBITDA kitchens  
-- 🌍 Geo-mapping analysis for city-wise kitchen performance  
-- 📊 Advanced drill-through and dynamic filtering in Power BI  
-- ☁️ Deployment using Streamlit or Power BI Service for live access  
-- 🧠 AI-driven recommendations for operational optimization  
-- 📦 Inventory and supply chain analytics integration  
-- 📱 Mobile-friendly dashboard version for operational teams  
+🚀 Real-time dashboard integration using live cloud kitchen data  
+🤖 Predictive analytics for forecasting food wastage and revenue trends  
+📈 Machine learning models for kitchen performance prediction  
+🔔 Automated alerts for high variance and low EBITDA kitchens  
+🌍 Geo-mapping analysis for city-wise kitchen performance  
+📊 Advanced drill-through and dynamic filtering in Power BI  
+☁️ Deployment using Streamlit or Power BI Service for live access  
+🧠 AI-driven recommendations for operational optimization  
+📦 Inventory and supply chain analytics integration  
+📱 Mobile-friendly dashboard version for operational teams  
 
 ---
 
-# ✅ Conclusion
+✅ Conclusion
 
 This project successfully analyzes cloud kitchen performance using revenue, EBITDA, order trends, and food wastage metrics. The dashboard provides valuable business insights that help identify profitable kitchens, operational inefficiencies, and high-risk stores.
 
