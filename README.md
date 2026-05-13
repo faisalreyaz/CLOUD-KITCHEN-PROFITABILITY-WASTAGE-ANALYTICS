@@ -6,7 +6,7 @@ A Business Intelligence Dashboard project focused on analyzing **cloud kitchen p
 
 # 📊 Dashboard Preview
 
-![Dashboard Preview](CLOUD%20KITCHEN%20PROFITABILITY%20%26%20WASTAGE%20ANALYTICS.png)
+![Dashboard Preview](https://github.com/faisalreyaz/CLOUD-KITCHEN-PROFITABILITY-WASTAGE-ANALYTICS/blob/main/CLOUD%20KITCHEN%20PROFITABILITY%20%26%20WASTAGE%20ANALYTICS.png)
 
 ---
 
