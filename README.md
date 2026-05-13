@@ -182,26 +182,7 @@ The dashboard offers an interactive and business-oriented solution for monitorin
 
 # 🔖 GitHub Topics / Hashtags
 
-```text
-#PowerBI
-#Python
-#DataAnalytics
-#BusinessIntelligence
-#Dashboard
-#CloudKitchen
-#FoodAnalytics
-#DataVisualization
-#Pandas
-#Matplotlib
-#EBITDA
-#RevenueAnalytics
-#OperationalAnalytics
-#WastageAnalytics
-#KitchenAnalytics
-#BusinessDashboard
-#PowerBIDashboard
-#DataScience
-#AnalyticsProject
-#FoodTech
-`#DataAnalytics` `#Automation` `#DataVisualization` `#BusinessIntelligence` ` #DataAnalytics` `#SalesAnalytics `
-`#DataVisualization` `#PowerBI` `#Python` `#DataAnalytics` `#BusinessIntelligence` `#Dashboard` `#CloudKitchen` `#FoodAnalytics` `#DataVisualization` `#Pandas` `#Matplotlib` `#EBITDA` `#RevenueAnalytics` `#OperationalAnalytics` `#WastageAnalytics` `#KitchenAnalytics` `#BusinessDashboard` `#PowerBIDashboard` `#DataScience` `#AnalyticsProject` `#FoodTech` 
+`#DataAnalytics` `#PowerBI` `#Python` `#DataAnalytics` `#BusinessIntelligence` `#Dashboard` 
+`#CloudKitchen` `#FoodAnalytics` `#DataVisualization` `#Pandas` `#Matplotlib` `#EBITDA` 
+`#RevenueAnalytics` `#OperationalAnalytics` `#WastageAnalytics` `#KitchenAnalytics` `#BusinessDashboard` 
+`#PowerBIDashboard` `#DataScience` `#AnalyticsProject` `#FoodTech` 
