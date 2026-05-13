@@ -40,6 +40,7 @@ The dashboard provides actionable insights to improve business performance acros
 # 📌 Key Business Insights
 
 ## 💰 Revenue Insights
+
 - Total Revenue generated: **₹7.36bn**
 - Highest revenue observed during **January**
 - Revenue fluctuations indicate seasonal demand patterns
@@ -47,6 +48,7 @@ The dashboard provides actionable insights to improve business performance acros
 ---
 
 ## 📈 Profitability Insights
+
 - Total EBITDA reached **₹1.44bn**
 - Top-performing kitchens contribute major business profits
 - EBITDA analysis helps identify profitable stores
@@ -54,6 +56,7 @@ The dashboard provides actionable insights to improve business performance acros
 ---
 
 ## ⚠️ Wastage Insights
+
 - High variance kitchens indicate increased food wastage
 - Some stores consistently show operational inefficiencies
 - Variance analysis supports cost optimization strategies
@@ -61,6 +64,7 @@ The dashboard provides actionable insights to improve business performance acros
 ---
 
 ## 🌍 Operational Insights
+
 - Total Active Kitchens: **344**
 - Regional performance trends identified using city & zone filters
 - Dashboard supports operational monitoring across locations
@@ -99,10 +103,87 @@ pandas
 matplotlib
 numpy
 openpyxl
+```
 
 ---
 
-🔮 Future Enhancements
+# 🗂️ Dataset Information
+
+The dataset contains:
+
+- 💰 Revenue Metrics
+- 📈 EBITDA Metrics
+- ⚠️ Variance (Food Wastage)
+- 🏪 Store Information
+- 🌍 City & Zone Mapping
+- 🛒 Order Counts
+- 📊 Cohort Categories
+
+---
+
+# 📊 Dashboard Components
+
+## 🔹 KPI Section
+
+- 💰 Revenue
+- 🛒 Orders
+- 📈 EBITDA
+- ⚠️ Variance
+- 🍴 Active Kitchens
+
+---
+
+## 🔹 Visualizations
+
+- 📉 Line Chart → Monthly Revenue Trend
+- 📊 Bar Chart → Revenue by Store
+- ⚠️ Bar Chart → Top 10 Variance Stores
+- 📈 Bar Chart → Top 10 EBITDA Stores
+
+---
+
+# 💡 Business Problems Solved
+
+This dashboard helps businesses:
+
+✅ Identify profitable kitchens  
+✅ Detect high food wastage  
+✅ Improve operational efficiency  
+✅ Monitor revenue performance  
+✅ Track store-level profitability  
+✅ Support strategic decision-making  
+
+---
+
+# 📁 Repository Structure
+
+```bash
+cloud-kitchen-analytics-dashboard/
+│
+├── 📄 README.md
+├── 📊 Cloud Kitchen Profitability & Wastage Analytics.pbix
+├── 📁 dataset/
+│   └── Kitchen_PNL_Data.xlsx
+│
+├── 📁 images/
+│   └── CLOUD KITCHEN PROFITABILITY & WASTAGE ANALYTICS.png
+│
+├── 📁 python/
+│   ├── data_cleaning.ipynb
+│   ├── revenue_trend.py
+│   ├── variance_analysis.py
+│   └── store_analysis.py
+│
+├── 📁 reports/
+│   └── business_insights.pdf
+│
+├── 📄 requirements.txt
+└── 📄 LICENSE
+```
+
+---
+
+# 🔮 Future Enhancements
 
 🚀 Real-time dashboard integration using live cloud kitchen data  
 🤖 Predictive analytics for forecasting food wastage and revenue trends  
@@ -117,7 +198,7 @@ openpyxl
 
 ---
 
-✅ Conclusion
+# ✅ Conclusion
 
 This project successfully analyzes cloud kitchen performance using revenue, EBITDA, order trends, and food wastage metrics. The dashboard provides valuable business insights that help identify profitable kitchens, operational inefficiencies, and high-risk stores.
 
@@ -127,7 +208,13 @@ The dashboard offers an interactive and business-oriented solution for monitorin
 
 ---
 
-# 🔖 GitHub Hashtags / Topics
+# 👨‍💻 Author
+
+### Data Analyst Project — Rebel Foods Assignment
+
+---
+
+# 🔖 GitHub Topics / Hashtags
 
 ```text
 #PowerBI
@@ -151,6 +238,9 @@ The dashboard offers an interactive and business-oriented solution for monitorin
 #AnalyticsProject
 #FoodTech
 ```
-## 🏷️ Tags
-`#DataAnalytics` `#Automation` `#DataVisualization` `#BusinessIntelligence` ` #DataAnalytics` `#SalesAnalytics `
-`#DataVisualization`   
+
+---
+
+# 📜 License
+
+This project is created for educational and portfolio purposes.
