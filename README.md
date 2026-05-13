@@ -155,34 +155,6 @@ This dashboard helps businesses:
 
 ---
 
-# 📁 Repository Structure
-
-```bash
-cloud-kitchen-analytics-dashboard/
-│
-├── 📄 README.md
-├── 📊 Cloud Kitchen Profitability & Wastage Analytics.pbix
-├── 📁 dataset/
-│   └── Kitchen_PNL_Data.xlsx
-│
-├── 📁 images/
-│   └── CLOUD KITCHEN PROFITABILITY & WASTAGE ANALYTICS.png
-│
-├── 📁 python/
-│   ├── data_cleaning.ipynb
-│   ├── revenue_trend.py
-│   ├── variance_analysis.py
-│   └── store_analysis.py
-│
-├── 📁 reports/
-│   └── business_insights.pdf
-│
-├── 📄 requirements.txt
-└── 📄 LICENSE
-```
-
----
-
 # 🔮 Future Enhancements
 
 🚀 Real-time dashboard integration using live cloud kitchen data  
@@ -205,12 +177,6 @@ This project successfully analyzes cloud kitchen performance using revenue, EBIT
 By combining Python-based data preprocessing with Power BI visual analytics, the project demonstrates how data-driven decision-making can improve operational efficiency, reduce wastage, and support profitability optimization in cloud kitchen businesses.
 
 The dashboard offers an interactive and business-oriented solution for monitoring kitchen performance across multiple cities and operational zones.
-
----
-
-# 👨‍💻 Author
-
-### Data Analyst Project — Rebel Foods Assignment
 
 ---
 
@@ -237,10 +203,3 @@ The dashboard offers an interactive and business-oriented solution for monitorin
 #DataScience
 #AnalyticsProject
 #FoodTech
-```
-
----
-
-# 📜 License
-
-This project is created for educational and portfolio purposes.
